@@ -12,7 +12,7 @@
     }
     
 }*/
-import java.util.Scanner;
+import java.util.*;
 class MultiDimensional{
     public static void main(String args[]){
         Scanner scn = new Scanner(System.in);
@@ -28,7 +28,7 @@ int[][] num ={{1,2,3,4,6,7,8,9,5},{1,2,3,4656,7,8,9,5},{1,22,33,44,55,66,5},{1,2
 System.out.println(num[a][b]);
 
 
-}        
+}   
 
     }
 
